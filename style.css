@@ -1,0 +1,265 @@
+body
+{
+  margin: 0;
+  padding: 0px;
+  font-style: italic;
+}
+h3
+{
+  display: inline-block;
+}
+h4
+{
+  margin: 50px auto auto auto;
+  text-align: center;
+}
+.top-container
+{
+  border: none;
+  height: 750px;
+  display: flex;
+  flex-direction: row;
+}
+.middle-container
+{
+  border: none;
+  height: 750px;
+  display: flex;
+  flex-direction: row;
+}
+.contact-container
+{
+  border: 1px solid rgb(255, 250, 250);
+  height: 700px;
+  display: flex;
+  flex-direction: row;
+}
+.contact-left
+{
+  border: white;
+  height: 700px;
+  width: 758px;
+}
+.contact-right
+{
+  border: white;
+  height: 700px;
+  width: 758px;
+  background-image: url(images/illus2.png);
+}
+.top-right
+{
+  border: white;
+  height: 750px;
+  width: 758px;
+  background-color: #EDEFF3;
+}
+.top-left
+{
+  border: white;
+  height: 750px;
+  width: 758px;
+}
+.bottom-container
+{
+  background-color: #edeff3;
+  border: 1px solid #edeff3;
+  height: 250px;
+  width: 100%;
+}
+.first
+{
+  margin: 200px auto auto 20px;
+}
+.second
+{
+  margin-left: 20px;
+  color: #0087D0;
+}
+.second-head
+{
+  margin: 200px 50px auto 50px;
+}
+.contact-head
+{
+  text-align: center;
+
+}
+.first-para
+{
+  font-size: 20px;
+  margin: auto 80px auto 20px;
+}
+.para-second
+{
+  font-size: 24px;
+  margin: 20px 50px auto 50px;
+}
+.footer-text{
+  text-align: center;
+  margin-top: 50px;
+}
+.stats
+{
+  margin: auto auto auto 50px;
+}
+.experience
+{
+  display: inline-block;
+  padding-right: 15px;
+  font-size: 70px;
+  color: #0087D0;
+}
+.exp-content
+{
+  display: inline-block;
+  width: 120px;
+}
+.project
+{
+  display: inline-block;
+  padding-right: 15px;
+  font-size: 70px;
+  color: #0087D0;
+}
+.proj-content
+{
+  display: inline-block;
+  width: 120px;
+}
+.nav-bar
+{
+  margin: auto auto auto 280px;
+}
+.element
+{
+  margin: auto 15px auto auto;
+}
+.socials
+{
+  margin: 120px auto auto 20px;
+}
+.socials-bottom
+{
+  margin: 30px auto auto 680px;
+  align-content: center;
+
+}
+.image1
+{
+  margin-top: 70px;
+  height: 700px;
+  width: 600px;
+}
+.image2
+{
+  /* border-radius: 5%;
+  height: 600px;
+  margin: 520px auto auto 200px; */
+  margin-top: 90px;
+  height: 500px;
+  width: 450px;
+  padding-left: 140px;
+}
+.icons
+{
+  height: 30px;
+  width: 30px;
+  margin: auto 10px auto auto;
+}
+input
+{
+  width: 400px;
+  height: 30px;
+  background-color: #edeff3;
+  border: 2px solid #edeff3;
+}
+textarea
+{
+  background-color: #edeff3;
+  border: 2px solid #edeff3;
+  width: 400px;
+}
+form
+{
+  margin: 100px auto auto 20px;
+}
+input[type=submit]{
+  background-color: #0087D0;
+  color: white;
+  width: 150px;
+}
+.myButton {
+  margin: 30px auto auto 20px;
+	background-color:#0087D0;
+	border-radius:15px;
+	border:1px solid #0087D0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:13px 17px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #2f6627;
+}
+.myButton:hover {
+	background-color:#546b86;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.myButton2 {
+  margin: auto auto auto 50px;
+	box-shadow: -1px 3px 0 0 #a5ada3;
+	background-color:#f7faf8;
+	border-radius:15px;
+	border:1px solid #0e0f0e;
+	display:inline-block;
+	cursor:pointer;
+	color:#141314;
+	font-family:Arial;
+	font-size:17px;
+	padding:13px 17px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #2f6627;
+}
+.myButton2:hover {
+	background-color:#d0c7db;
+}
+.myButton2:active {
+	position:relative;
+	top:1px;
+}
+.myButton3 {
+  margin: auto auto auto 50px;
+	box-shadow: -1px 3px 0 0 #a5ada3;
+	background-color:#0087D0;
+	border-radius:9px;
+	border:1px solid #0087D0;
+	display:inline-block;
+	cursor:pointer;
+	color:#f5edf5;
+	font-family:Arial;
+	font-size:17px;
+	padding:13px 17px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #2f6627;
+}
+.myButton3:hover {
+	background-color:#0087D0;
+}
+.myButton3:active {
+	position:relative;
+	top:1px;
+}
+
+#right{
+  background-color: white;
+}
+#left
+{
+  background-image: url(images/illus1.png);
+}
